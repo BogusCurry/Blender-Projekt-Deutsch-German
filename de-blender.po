@@ -15,9 +15,8 @@ msgstr ""
 msgid "Action F-Curves"
 msgstr "Aktion F-Kurven"
 
-#, fuzzy
 msgid "Collection of action F-Curves"
-msgstr "Aktion F-Kurven"
+msgstr "Sammlung von Aktionen F-Kurven"
 
 msgid "Action Group"
 msgstr "Aktionsgruppe"
@@ -110,7 +109,7 @@ msgid "Copy of the colors associated with the group's color set"
 msgstr "Kopie der Farben, die mit der Farbpalette der Gruppe zusammenhängen"
 
 msgid "Color set is user-defined instead of a fixed theme color set"
-msgstr ""
+msgstr "Der Farbsatz ist anstelle eines festen Themenfarbsatzes benutzerdefiniert"
 
 msgid "Lock"
 msgstr "Sperren"
@@ -133,37 +132,29 @@ msgstr "Erweitert"
 msgid "Action group is expanded"
 msgstr "Aktionsgruppe ist erweitert"
 
-#, fuzzy
 msgid "Action Groups"
-msgstr "Gruppen"
+msgstr "Aktionsgruppen"
 
-#, fuzzy
 msgid "Collection of action groups"
-msgstr "Eine Sammlung von Objekten dieser Gruppe"
+msgstr "Sammlung von Aktionsgruppen"
 
-#, fuzzy
 msgid "Action Pose Markers"
-msgstr "Posenmarker"
+msgstr "Aktionen Pose Markers"
 
-#, fuzzy
 msgid "Collection of timeline markers"
-msgstr "Sammlung von Markierungen in Spur"
+msgstr "Sammlung von Zeitleistenmarkierungen"
 
-#, fuzzy
 msgid "Active Pose Marker"
-msgstr "Kein Knochen aktiv"
+msgstr "Aktive Pose Marker"
 
-#, fuzzy
 msgid "Active pose marker for this action"
-msgstr "Aktiver Marker"
+msgstr "Aktiver Pose-Marker für diese Aktion"
 
-#, fuzzy
 msgid "Active Pose Marker Index"
-msgstr "Aktiver Marker"
+msgstr "Aktiver Pose Marker Index"
 
-#, fuzzy
 msgid "Index of active pose marker"
-msgstr "Aktiver Marker"
+msgstr "Index der aktiven Pose Marker"
 
 msgid "Actuator to apply actions in the game engine"
 msgstr "Aktor, der Aktionen in der Game Engine anwendet"
@@ -171,9 +162,8 @@ msgstr "Aktor, der Aktionen in der Game Engine anwendet"
 msgid "Active"
 msgstr "Aktiv"
 
-#, fuzzy
 msgid "Set the active state of the actuator"
-msgstr "Zustand setzen"
+msgstr "Aktiven Zustand setzen"
 
 msgid "Pinned"
 msgstr "Festgepinnt"
@@ -251,7 +241,7 @@ msgid "Child"
 msgstr "Kind"
 
 msgid "Update Action on all children Objects as well"
-msgstr ""
+msgstr "Update Aktion auch auf alle Kinder Objekte"
 
 msgid "Blend Mode"
 msgstr "Mischmodus"
@@ -320,31 +310,31 @@ msgid "Priority"
 msgstr "Priorität"
 
 msgid "Execution priority - lower numbers will override actions with higher numbers (with 2 or more actions at once, the overriding channels must be lower in the stack)"
-msgstr ""
+msgstr "Ausführungspriorität - niedrigere Zahlen überschreiben Aktionen mit höheren Zahlen (mit 2 oder mehr Aktionen gleichzeitig, die übergeordneten Kanäle müssen im Stapel niedriger sein)"
 
 msgid "Use this property to define the Action position"
 msgstr "Diese Eigenschaft verwenden, um die Aktionsposition zu definieren"
 
 msgid "Action is added to the current loc/rot/scale in global or local coordinate according to Local flag"
-msgstr ""
+msgstr "Die Aktion wird dem aktuellen loc/rot/scale in der globalen oder lokalen Koordinate entsprechend dem lokalen Flag hinzugefügt"
 
 msgid "Continue"
 msgstr "Fortsetzen"
 
 msgid "Restore last frame when switching on/off, otherwise play from the start each time"
-msgstr ""
+msgstr "Wiederherstellen des letzten Rahmens beim Ein-/Ausschalten, sonst ab dem nächsten Start jedes Mal"
 
 msgid "Force"
 msgstr "Kraft"
 
 msgid "Apply Action as a global or local force depending on the local option (dynamic objects only)"
-msgstr ""
+msgstr "Aktion als globale oder lokale Kraft abhängig von der lokalen Option (nur dynamische Objekte)"
 
 msgid "L"
 msgstr "L"
 
 msgid "Let the Action act in local coordinates, used in Force and Add mode"
-msgstr ""
+msgstr "Lassen Sie die Aktion in lokalen Koordinaten handeln, die im Force- und Add-Modus verwendet werden"
 
 msgid "Armature Actuator"
 msgstr "Skelett-Aktor"
@@ -467,16 +457,16 @@ msgid "Max Angle"
 msgstr "Max. Winkel"
 
 msgid "Maximum angle allowed with target direction (no correction is done if angle with target direction is between min and max)"
-msgstr ""
+msgstr "Maximaler Winkel mit Zielrichtung erlaubt (keine Korrektur erfolgt, wenn Winkel mit Zielrichtung zwischen min und max liegt)"
 
 msgid "Min Angle"
 msgstr "Min. Winkel"
 
 msgid "Minimum angle to maintain with target direction (no correction is done if angle with target direction is between min and max)"
-msgstr ""
+msgstr "Minimaler Winkel zur Aufrechterhaltung mit Zielrichtung (keine Korrektur erfolgt, wenn Winkel mit Zielrichtung zwischen min und max liegt)"
 
 msgid "Damping factor: time constant (in frame) of low pass filter"
-msgstr ""
+msgstr "Dämpfungsfaktor: Zeitkonstante (im Rahmen) Tiefpassfilter"
 
 msgid "RotDamp"
 msgstr "Rotationsdämpfung"
@@ -512,7 +502,7 @@ msgid "-Z axis"
 msgstr "-Z-Achse"
 
 msgid "Select the axis to be aligned along the reference direction"
-msgstr ""
+msgstr "Wählen Sie die Achse aus, die entlang der Referenzrichtung ausgerichtet werden soll"
 
 msgid "Distance"
 msgstr "Abstand"
@@ -587,11 +577,10 @@ msgid "N"
 msgstr "N"
 
 msgid "Add a horizontal spring force on slopes"
-msgstr ""
+msgstr "Fügen Sie eine horizontale Federkraft Hänged hinzu"
 
-#, fuzzy
 msgid "Rot Fh"
-msgstr "Rot"
+msgstr "Rot Fh"
 
 msgid "Keep object axis parallel to normal"
 msgstr "Objektachse parallel zur Normale beibehalten"
@@ -603,7 +592,7 @@ msgid "Force distance of object to point of impact of ray"
 msgstr "Kraftentfernung vom Objekt bis zum Auftrittspunkt des Strahls"
 
 msgid "Set ray along object's axis or global axis"
-msgstr ""
+msgstr "Setzen Sie den Strahl entlang der Achse des Objekts oder der globalen Achse"
 
 msgid "M/P"
 msgstr "M/P"
@@ -612,14 +601,13 @@ msgid "Detect material instead of property"
 msgstr "Ermittelt Material anstatt Eigenschaft"
 
 msgid "Set object axis along (local axis) or parallel (global axis) to the normal at hit position"
-msgstr ""
+msgstr "Setzen Sie die Objektachse entlang (lokale Achse) oder parallel (globale Achse) auf die normale an der Trefferposition"
 
-#, fuzzy
 msgid "PER"
-msgstr "Geschwindigkeit der Animation in Bilder pro Sekunde"
+msgstr "PER"
 
 msgid "Persistent actuator: stays active even if ray does not reach target"
-msgstr "Anhaltender Aktor: bleibt aktiv, selbst wenn Strahlziel nicht erreicht wurde."
+msgstr "Anhaltender Aktor: bleibt aktiv, selbst wenn Strahlziel nicht erreicht wurde"
 
 msgid "Edit Object Actuator"
 msgstr "Objekt-Bearbeiten-Aktor"
@@ -667,7 +655,7 @@ msgid "Mesh"
 msgstr "Mesh"
 
 msgid "Replace the existing, when left blank 'Phys' will remake the existing physics mesh"
-msgstr ""
+msgstr "Ersetzen Sie das vorhandene, wenn es leer bleibt, 'Phys' wird das bestehende Physik-Mesh neu machen"
 
 msgid "The mode of the actuator"
 msgstr "Der Modus des Aktors"
@@ -814,7 +802,7 @@ msgid "File"
 msgstr "Datei"
 
 msgid "The file to use, depending on the mode (e.g. the blend file to load or a destination for saving a screenshot) - use the \"//\" prefix for a relative path"
-msgstr ""
+msgstr "Die zu verwendende Datei, abhängig vom Modus (z. B. die Blenddatei zum Laden oder ein Ziel zum Speichern eines Screenshots) - verwenden Sie das \"//\" Präfix für einen relativen Pfad"
 
 msgid "Start Game From File"
 msgstr "Spiel von Datei starten"
@@ -847,10 +835,10 @@ msgid "Prop Name"
 msgstr "Eigenschaftsname"
 
 msgid "The message body will be set by the Property Value"
-msgstr ""
+msgstr "Der Nachrichtentext wird durch den Eigenschaftswert gesetzt"
 
 msgid "Toggle message type: either Text or a PropertyName"
-msgstr ""
+msgstr "Umschalten des Nachrichtentyps: entweder Text oder ein PropertyName"
 
 msgid "Text"
 msgstr "Text"
@@ -862,13 +850,13 @@ msgid "Optional, message subject (this is what can be filtered on)"
 msgstr "Optional, Nachrichtenobjekt (nach dem kann gefiltert werden)"
 
 msgid "To"
-msgstr ""
+msgstr "nach"
 
 msgid "Optional, send message to objects with this name only, or empty to broadcast"
-msgstr ""
+msgstr "Optional, Nachricht an Objekte nur mit diesem Namen senden oder leer zu senden"
 
 msgid "Mouse Actuator"
-msgstr ""
+msgstr "Maus-Aktuator"
 
 msgid "Local"
 msgstr "Lokal"
@@ -877,16 +865,16 @@ msgid "Apply rotation locally"
 msgstr "Die Rotation lokal anwenden"
 
 msgid "Maximum positive rotation allowed by X mouse movement (0 for infinite)"
-msgstr ""
+msgstr "Maximale positive Drehung durch X-Maus-Bewegung erlaubt (0 für unendlich)"
 
 msgid "Maximum positive rotation allowed by Y mouse movement (0 for infinite)"
-msgstr ""
+msgstr "Maximale positive Drehung durch Y-Maus-Bewegung erlaubt (0 für unendlich)"
 
 msgid "Maximum negative rotation allowed by X mouse movement (0 for infinite)"
-msgstr ""
+msgstr "Maximale negative Drehung durch X-Maus-Bewegung erlaubt (0 für unendlich)"
 
 msgid "Maximum negative rotation allowed by Y mouse movement (0 for infinite)"
-msgstr ""
+msgstr "Maximale negative Drehung durch Y-Maus-Bewegung erlaubt (0 für unendlich)"
 
 msgid "Mode"
 msgstr "Modus"
@@ -895,10 +883,10 @@ msgid "Look"
 msgstr "Aussehen"
 
 msgid "Object Axis"
-msgstr ""
+msgstr "Objektachse"
 
 msgid "Local object axis mouse movement in the X direction will apply to"
-msgstr ""
+msgstr "Lokale Objektachse Mausbewegung in der X-Richtung gilt für"
 
 msgid "X Axis"
 msgstr "X-Achse"
@@ -910,16 +898,16 @@ msgid "Z Axis"
 msgstr "Z-Achse"
 
 msgid "Local object axis mouse movement in the Y direction will apply to"
-msgstr ""
+msgstr "Lokale Objektachse Mausbewegung in Y-Richtung gilt für"
 
 msgid "Reset"
 msgstr "Zurücksetzen"
 
 msgid "Reset the cursor's X position to the center of the screen space after calculating"
-msgstr "Setze nach der Berechnung die X-Position des Mauszeigers in die Bildschirmmitte "
+msgstr "Setze nach der Berechnung die X-Position des Mauszeigers in die Bildschirmmitte"
 
 msgid "Reset the cursor's Y position to the center of the screen space after calculating"
-msgstr "Setze nach der Berechnung die Y-Position des Mauszeigers in die Bildschirmmitte "
+msgstr "Setze nach der Berechnung die Y-Position des Mauszeigers in die Bildschirmmitte"
 
 msgid "Sensitivity"
 msgstr "Empfindlichkeit"
@@ -934,10 +922,10 @@ msgid "Threshold"
 msgstr "Schwellwert"
 
 msgid "Amount of X motion before mouse movement will register"
-msgstr ""
+msgstr "Die Anzahl der X-Bewegungen, bevor die Mausbewegung registriert wird"
 
 msgid "Amount of Y motion before mouse movement will register"
-msgstr ""
+msgstr "Die Anzahl der Y-Bewegungen, bevor die Mausbewegung registriert wird"
 
 msgid "Use X Axis"
 msgstr "Benutze X-Achse"
@@ -960,7 +948,6 @@ msgstr "Mache Mauszeiger sichtbar"
 msgid "Motion Actuator"
 msgstr "Bewegung-Aktor"
 
-#, fuzzy
 msgid "Angular velocity"
 msgstr "Winkelgeschwindigkeit"
 
@@ -968,7 +955,7 @@ msgid "Damping Frames"
 msgstr "Einzelbilder dämpfen"
 
 msgid "Number of frames to reach the target velocity"
-msgstr ""
+msgstr "Anzahl der Frames, um die Zielgeschwindigkeit zu erreichen"
 
 msgid "Derivate Coefficient"
 msgstr "Derivate Koeffizient"
@@ -998,10 +985,10 @@ msgid "Integral Coefficient"
 msgstr "Integralkoeffizient"
 
 msgid "Low value (0.01) for slow response, high value (0.5) for fast response"
-msgstr ""
+msgstr "Niedrigen Wert (0,01) für langsame Reaktion, hoher Wert (0,5) für schnelle Reaktion"
 
 msgid "Linear velocity (in Servo mode it sets the target relative linear velocity, it will be achieved by automatic application of force - Null velocity is a valid target)"
-msgstr ""
+msgstr "Lineare Geschwindigkeit (in Servo-Modus setzt der relativen linearen Zielgeschwindigkeit, es wird erreicht durch automatische Anwendung der Kraft - Null Geschwindigkeit ist ein gültiges Ziel)"
 
 msgid "Motion Type"
 msgstr "Bewegungstyp"
@@ -1034,28 +1021,28 @@ msgid "Proportional Coefficient"
 msgstr "Proportionaler Koeffizient"
 
 msgid "Typical value is 60x integral coefficient"
-msgstr ""
+msgstr "Typischer Wert ist 60 x integraler Koeffizient"
 
 msgid "Reference Object"
 msgstr "Bezugsobjekt"
 
 msgid "Reference object for velocity calculation, leave empty for world reference"
-msgstr ""
+msgstr "Referenzobjekt für Geschwindigkeit Berechnung, leer lassen für weltweite Referenz"
 
 msgid "Torque"
 msgstr "Drehkraft"
 
 msgid "Toggle between ADD and SET character location"
-msgstr ""
+msgstr "Umschalten Sie zwischen hinzufügen \"und\" SET-Charakter-Standort"
 
 msgid "Toggles between ADD and SET linV"
-msgstr ""
+msgstr "Wechselt zwischen hinzufügen \"und\" SET linV"
 
 msgid "Jump"
 msgstr "Springen"
 
 msgid "Make the character jump using the settings in the physics properties"
-msgstr ""
+msgstr "Machen Sie den Charakter springen mit den Einstellungen in den Eigenschaften der Physik"
 
 msgid "Angular velocity is defined in local coordinates"
 msgstr "Die Winkelgeschwindigkeit ist in lokalen Koordinaten definiert"
@@ -1112,13 +1099,13 @@ msgid "Compound"
 msgstr "Zusammengesetzt"
 
 msgid "Add this object shape to the parent shape (only if the parent shape is already compound)"
-msgstr ""
+msgstr "Der übergeordnete Form fügen Sie Form dieses Objekts hinzu, (nur, wenn die übergeordnete Form bereits zusammengesetzte)"
 
 msgid "Ghost"
 msgstr "Geist"
 
 msgid "Make this object ghost while parented"
-msgstr ""
+msgstr "Machen dieses Ghost Objekt übergeordnet."
 
 msgid "Property Actuator"
 msgstr "Eigenschaften-Aktor"
@@ -1154,7 +1141,7 @@ msgid "The name of the property"
 msgstr "Der Name dieser Eigenschaft"
 
 msgid "The name of the property or the value to use (use \"\" around strings)"
-msgstr ""
+msgstr "Der Name der Eigenschaft oder den Wert zu verwenden (verwenden Sie die \"\" Zeichenfolgen)"
 
 msgid "Random Actuator"
 msgstr "Zufall-Aktor"
@@ -1163,7 +1150,7 @@ msgid "Chance"
 msgstr "Abbrechen"
 
 msgid "Pick a number between 0 and 1, success if it's below this value"
-msgstr ""
+msgstr "Wählen Sie eine Zahl zwischen 0 und 1, Erfolg wenn es unterhalb dieses Wertes ist"
 
 msgid "Distribution"
 msgstr "Verteilung"
@@ -1202,17 +1189,16 @@ msgid "Float Neg. Exp."
 msgstr "Float Neg. Exp."
 
 msgid "Choose a number from a range: upper boundary of the range"
-msgstr ""
+msgstr "Wählen Sie eine Zahl aus einer Reihe: obere Grenze des Bereichs"
 
 msgid "Mean"
 msgstr "Durchschnitt"
 
-#, fuzzy
 msgid "A normal distribution: mean of the distribution"
-msgstr "Erwarteter Mittelwert der Verteilung"
+msgstr "Eine Normalverteilung: Mittelwert der Verteilung"
 
 msgid "Choose a number from a range: lower boundary of the range"
-msgstr ""
+msgstr "Wählen Sie eine Zahl aus einer Reihe: untere Grenze des Bereichs"
 
 msgid "Always return this number"
 msgstr "Immer diese Zahl zurückgeben"
@@ -1220,28 +1206,26 @@ msgstr "Immer diese Zahl zurückgeben"
 msgid "Half-Life Time"
 msgstr "Halbwertszeit"
 
-#, fuzzy
 msgid "Negative exponential dropoff"
-msgstr "Negativ"
+msgstr "Negative exponentielle dropoff"
 
 msgid "Expected mean value of the distribution"
 msgstr "Erwarteter Mittelwert der Verteilung"
 
-#, fuzzy
 msgid "Assign the random value to this property"
-msgstr "Eigenschaftswert"
+msgstr "Diese Eigenschaft der zufälligen Wert zuweisen"
 
 msgid "Seed"
 msgstr "Startwert"
 
 msgid "Initial seed of the random generator, use Python for more freedom (choose 0 for not random)"
-msgstr ""
+msgstr "Erste Samen von den Zufallsgenerator, verwenden Python für mehr Freiheit (Wählen Sie 0 für nicht zufällig)"
 
 msgid "SD"
 msgstr "SD"
 
 msgid "A normal distribution: standard deviation of the distribution"
-msgstr ""
+msgstr "Eine Normalverteilung: Standardabweichung der Verteilung"
 
 msgid "Always True"
 msgstr "Immer wahr"
@@ -1280,7 +1264,7 @@ msgid "Resume Scene"
 msgstr "Szene fortsetzen"
 
 msgid "Scene to be added/removed/paused/resumed"
-msgstr ""
+msgstr "Szene hinzugefügt/entfernt/angehalten/fortgesetzt werden"
 
 msgid "Sound file"
 msgstr "Klangdatei"
@@ -1301,7 +1285,7 @@ msgid "Cone Outer Gain"
 msgstr "Kegel außere Verstärkung"
 
 msgid "The gain outside the outer cone (the gain in the outer cone will be interpolated between this value and the normal gain in the inner cone)"
-msgstr ""
+msgstr "Der Gewinn außerhalb der äußeren Kegel (der Gewinn im äußeren Kegel wird zwischen diesem Wert und der normalen Gewinn in der Innenkonus interpoliert werden)"
 
 msgid "Maximum Distance"
 msgstr "Maximaler Abstand"
@@ -1339,9 +1323,8 @@ msgstr "Ende abspielen"
 msgid "Loop Bidirectional"
 msgstr "Richtung umdrehen"
 
-#, fuzzy
 msgid "Loop Bidirectional Stop"
-msgstr "Richtung umdrehen"
+msgstr "Schleife bidirektionale Stop"
 
 msgctxt "Sound"
 msgid "Pitch"
@@ -1411,22 +1394,18 @@ msgstr "Entfernung begrenzen"
 msgid "Facing"
 msgstr "Außenschicht"
 
-#, fuzzy
 msgid "Enable automatic facing"
-msgstr "Automatisch"
+msgstr "Aktivieren Sie automatische Verkleidung"
 
-#, fuzzy
 msgid "Axis for automatic facing"
-msgstr "Automatisch"
+msgstr "Achse für die automatische Verkleidung"
 
 msgid "-Z"
 msgstr "-Z"
 
-#, fuzzy
 msgid "Lock Z velocity"
-msgstr "Z-Pos sperren"
+msgstr "Sperre Z Geschwindigkeit"
 
-#, fuzzy
 msgid "Disable simulation of linear motion along Z axis"
 msgstr "Simulation von Linearbewegung entlang der Z-Achse deaktivieren"
 
@@ -1449,7 +1428,7 @@ msgid "Navigation mesh"
 msgstr "Navigation-Mesh"
 
 msgid "Use normal of the navmesh to set \"UP\" vector"
-msgstr ""
+msgstr "Verwenden Sie normal von der Navmesh \"UP\" Vektor einrichten"
 
 msgid "Self Terminated"
 msgstr "Selbstzerstörung"
@@ -1460,14 +1439,12 @@ msgstr "Zerstörung sich selbst, wenn das Ziel erreicht ist"
 msgid "Visualize"
 msgstr "Visualisieren"
 
-#, fuzzy
 msgid "Enable debug visualization for 'Path following'"
-msgstr "Debug-Visualisierung zur Hindernis-Simulation aktivieren"
+msgstr "Aktivieren der Debug-Visualisierung für 'Pfad folgen'"
 
 msgid "Target Object"
 msgstr "Zielobjekt"
 
-#, fuzzy
 msgid "Target object"
 msgstr "Zielobjekt"
 
@@ -1499,23 +1476,23 @@ msgid "Children"
 msgstr "Kinder"
 
 msgid "Set all the children of this object to the same visibility/occlusion recursively"
-msgstr ""
+msgstr "Alle Kinder dieses Objekts auf die gleiche Sichtbarkeit/Okklusion rekursiv gesetzt"
 
 msgid "Occlusion"
-msgstr "Absorption"
+msgstr "Okklusion"
 
 msgid "Set the object to occlude objects behind it (initialized from the object type in physics button)"
-msgstr ""
+msgstr "Legen Sie das Objekt, das verdecken Objekte dahinter (initialisiert aus den Objekttyp in Physik-Taste)"
 
 msgid "Set the objects visible (initialized from the object render restriction toggle in physics button)"
-msgstr ""
+msgstr "Legen Sie die sichtbaren Objekte (aus dem Objekt Render Einschränkung Toggle in Physik-Taste initialisiert)"
 
 #, fuzzy
 msgid "Add-on"
 msgstr "Hinzufügen:"
 
 msgid "Python add-ons to be loaded automatically"
-msgstr ""
+msgstr "Python Erweiterungen automatisch geladen werden"
 
 msgid "Module"
 msgstr "Modul"
@@ -1523,19 +1500,17 @@ msgstr "Modul"
 msgid "Module name"
 msgstr "Modulname"
 
-#, fuzzy
 msgid "Add-on Preferences"
-msgstr "Benutzereinstellungen"
+msgstr "Add-on-Einstellungen"
 
 msgid "Password"
-msgstr ""
+msgstr "Passwort"
 
 msgid "E-mail address"
-msgstr ""
+msgstr "E-Mail Adresse"
 
-#, fuzzy
 msgid "Error Message"
-msgstr "Nachricht"
+msgstr "Fehlermeldung"
 
 msgid "Compute Device Type"
 msgstr "Berechnungsgerättyp"
@@ -1547,26 +1522,25 @@ msgid "Fribidi Library"
 msgstr "Fribidi Bibliothek"
 
 msgid "The FriBidi C compiled library (.so under Linux, .dll under windows...), you’ll likely have to edit it if you’re under Windows, e.g. using the one included in svn's libraries repository"
-msgstr ""
+msgstr "Die FriBidi C kompilierte Bibliothek (.so unter Linux, DLL unter Windows...), haben Sie wahrscheinlich um ihn zu bearbeiten, wenn Sie unter Windows, z. B. mittels eines im Svn Bibliotheken-Repository enthalten sind"
 
 msgid "Gettext 'msgfmt' executable"
 msgstr "Gettext 'msgfmt' ausführbar"
 
 msgid "The gettext msgfmt 'compiler'. You’ll likely have to edit it if you’re under Windows"
-msgstr ""
+msgstr "Die Gettext Msgfmt \"Compiler\". Wahrscheinlich musst du ihn zu bearbeiten, wenn Sie unter Windows sind"
 
 msgid "Translation Root"
 msgstr "Übersetzungsverzeichnis"
 
-#, fuzzy
 msgid "The bf-translation repository"
-msgstr "Übersetzung"
+msgstr "Das bf-translation Übersetzungsverzeichnis"
 
 msgid "Import Paths"
 msgstr "Pfade importieren"
 
 msgid "Additional paths to add to sys.path (';' separated)"
-msgstr ""
+msgstr "Weitere Pfade zu sys.path hinzufügen ('; ' trennt)"
 
 msgid "Source Root"
 msgstr "Quellverzeichnis"
@@ -1574,61 +1548,53 @@ msgstr "Quellverzeichnis"
 msgid "The Blender source root path"
 msgstr "Der Blender Quellverzeichnis-Stammpfad"
 
-#, fuzzy
 msgid "Spell Cache"
-msgstr "Puffer:"
+msgstr "Puffer"
 
 msgid "A cache storing validated msgids, to avoid re-spellchecking them"
-msgstr ""
+msgstr "Ein Cache-Speicherung msgids zur Vermeidung von Re-Rechtschreibprüfung überprüfen sie es"
 
 msgid "Warn Msgid Not Capitalized"
-msgstr ""
+msgstr "Warnung Msgid nicht aktiviert"
 
 msgid "Warn about messages not starting by a capitalized letter (with a few allowed exceptions!)"
-msgstr ""
+msgstr "Warnung: vor Nachrichten nicht an den Start mit einem aktivierten schreiben (mit ein paar zulässigen Ausnahmen!)"
 
 msgid "Persistent Data Path"
 msgstr "Elternteil setzen"
 
 msgid "The name of a json file storing those settings (unfortunately, Blender's system does not work here)"
-msgstr ""
+msgstr "Der Name einer Json-Datei speichern, diese Einstellungen (leider Blender System funktioniert hier nicht)"
 
-#, fuzzy
 msgid "Tab Category"
-msgstr "Tab"
+msgstr "Tab Kategorie"
 
 msgid "Choose a name for the category of the panel"
-msgstr ""
+msgstr "Wählen Sie einen Namen für die Kategorie des Panels"
 
-#, fuzzy
 msgid "User Add-ons"
-msgstr "Alle durch den Benutzer installierten Add-ons"
+msgstr "Benutzer Erweiterungen"
 
-#, fuzzy
 msgid "Collection of add-ons"
-msgstr "Alle deaktivierten Add-ons "
+msgstr "Kollektion der Erweiterungen"
 
-#, fuzzy
 msgid "Object Path"
-msgstr "Pfad:"
+msgstr "Objekt Pfad:"
 
 msgid "Path of an object inside of an Alembic archive"
-msgstr ""
+msgstr "Pfad eines Objekts innerhalb eines Archivs Alembic"
 
 msgid "Path"
 msgstr "Pfad"
 
-#, fuzzy
 msgid "Object path"
-msgstr "Pfad:"
+msgstr "Objekt Pfad:"
 
-#, fuzzy
 msgid "Object Paths"
-msgstr "Erstes Einzelbild, um Objektpfade darauf zu berechnen"
+msgstr "Objektpfade"
 
-#, fuzzy
 msgid "Collection of object paths"
-msgstr "Objektpfade berechnen"
+msgstr "Kollektion von Objektpfaden"
 
 msgid "Animation Data"
 msgstr "Animationsdaten"
@@ -1645,67 +1611,64 @@ msgid "Action Blending"
 msgstr "Aktionsüberblendung"
 
 msgid "Method used for combining Active Action's result with result of NLA stack"
-msgstr ""
+msgstr "Verfahren zur Kombination von aktiven Aktionsergebnis mit Ergebnis der NLA-stack"
 
 msgid "Replace"
 msgstr "Ersetzen"
 
 msgid "Result strip replaces the accumulated results by amount specified by influence"
-msgstr ""
+msgstr "Ergebnis-Streifen ersetzt die kumulierten Ergebnisse durch Mengenangabe von Einfluss"
 
 msgid "Weighted result of strip is added to the accumulated results"
-msgstr ""
+msgstr "Gewichtete Ergebnis des Streifens wird die kumulierten Ergebnisse hinzugefügt"
 
 msgid "Subtract"
 msgstr "Subtrahieren"
 
 msgid "Weighted result of strip is removed from the accumulated results"
-msgstr ""
+msgstr "Gewichtete Ergebnis des Streifens wird aus den gesammelten Ergebnissen entfernt."
 
 msgid "Multiply"
 msgstr "Multiplizieren"
 
 msgid "Weighted result of strip is multiplied with the accumulated results"
-msgstr ""
+msgstr "Gewichtete Ergebnis des Streifens wird multipliziert mit den gesammelten Ergebnissen"
 
-#, fuzzy
 msgid "Action Extrapolation"
-msgstr "Extrapolation"
+msgstr "Aktion-Extrapolation"
 
 msgid "Action to take for gaps past the Active Action's range (when evaluating with NLA)"
-msgstr ""
+msgstr "Aktion für Lücken vorbei an aktiven Aktionsbereich (bei der Bewertung mit NLA)"
 
 msgid "Nothing"
 msgstr "Nichts"
 
 msgid "Strip has no influence past its extents"
-msgstr ""
+msgstr "Strip hat keinen Einfluss, vorbei an seine Grenzen"
 
 msgid "Hold"
 msgstr "Anhalten"
 
 msgid "Hold the first frame if no previous strips in track, and always hold last frame"
-msgstr ""
+msgstr "Das erste Bild halten, wenn keine vorherigen Streifen verfolgt werden, und halten Sie immer den letzten frame"
 
-#, fuzzy
 msgid "Hold Forward"
-msgstr "Vorwärts:"
+msgstr "Vorwärts"
 
-#, fuzzy
 msgid "Only hold last frame"
-msgstr "Objektpfade berechnen"
+msgstr "Halten Sie nur den letzten Rahmen"
 
 msgid "Action Influence"
 msgstr "Aktionseinfluss"
 
 msgid "Amount the Active Action contributes to the result of the NLA stack"
-msgstr ""
+msgstr "Menge der aktiven Maßnahmen trägt dazu bei, das Ergebnis des Stapels NLA"
 
 msgid "Drivers"
 msgstr "Treiber"
 
 msgid "The Drivers/Expressions for this data-block"
-msgstr ""
+msgstr "Die Treiber/Ausdrücke für diese Daten-block"
 
 msgid "NLA Tracks"
 msgstr "NLA Spuren"
@@ -1713,23 +1676,20 @@ msgstr "NLA Spuren"
 msgid "NLA Tracks (i.e. Animation Layers)"
 msgstr "NLA-Spur (z.B. Animationsebene)"
 
-#, fuzzy
 msgid "NLA Evaluation Enabled"
-msgstr "Python-Skript verwenden, um die Beschränkung auzuwerten"
+msgstr "NLA-Bewertung aktiviert"
 
 msgid "NLA stack is evaluated when evaluating this block"
-msgstr ""
+msgstr "NLA-Stack wird ausgewertet, wenn dieser Block Bewertung"
 
-#, fuzzy
 msgid "Use NLA Tweak Mode"
-msgstr "Editiermodus betreten"
+msgstr "NLA-Tweak-Modus verwenden"
 
 msgid "Whether to enable or disable tweak mode in NLA"
-msgstr ""
+msgstr "Ob Sie aktivieren oder deaktivieren Sie tweaken den Modus in NLA"
 
-#, fuzzy
 msgid "Collection of Driver F-Curves"
-msgstr "Aktion F-Kurven"
+msgstr "Sammlung von F-Kurven Treiber"
 
 msgid "Animation Visualization"
 msgstr "Animation Visualisierung"
@@ -4703,7 +4663,7 @@ msgid "Copy Location"
 msgstr "Position kopieren"
 
 msgid "Copy the location of a target (with an optional offset), so that they move together"
-msgstr ""
+msgstr "Kopieren Sie den Speicherort eines Ziels (mit einem optionalen Offset), so dass sie gemeinsam bewegen"
 
 msgid "Copy Rotation"
 msgstr "Rotation kopieren"
