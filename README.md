@@ -15,11 +15,11 @@ Ich nutze Notepad++, WinMerge 2.14 und Poedit 2.2PRO für die Übersetzungen.
 
      * Übersetzung                                        Elemente               Wörter              Zeichen
      Übersetzt                                        13860 (59 %)                53227               412483
-     Benötigt Überarbeitung                            6801 (29 %)                20694               163818
+     Benötigt Überarbeitung                            7207 (31 %)                27636               215754
      Übersetzungen mit Fehlern                                   0
 
       *Quelltext
      Zeichenketten in originaler Sprache                     23537               110214               659580
-     Benötigt Überarbeitung                                                       24869               149354
-     Nicht übersetzt                                   2876 (12 %)                26232               156387
+     Benötigt Überarbeitung                                                       26876               161258
+     Nicht übersetzt                                   2470 (10 %)                24225               144483
 
