@@ -11,7 +11,7 @@ Dann habe ich Übersetzung von Martin Reininger eingefügt.
 
 Jetzt muss nur noch der fehlende Rest Übersetzt werden.
 
-Ich nutze Notepad++ und Po Edit 2 für die Übersetzungen.
+Ich nutze Notepad++, WinMerge 2.14 und Poedit 2.2PRO für die Übersetzungen.
 
      * Übersetzung                                        Elemente               Wörter              Zeichen
      Übersetzt                                        13860 (59 %)                53227               412483
