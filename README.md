@@ -11,20 +11,13 @@ Jetzt muss nur noch der fehlende Rest Übersetzt werden.
 
 Ich nutze Notepad++ und Po Edit 2 für die Übersetzungen.
 
-
      * Übersetzung                                        Elemente               Wörter              Zeichen
-
-     Übersetzt                                        11821 (50 %)                35641               285490
-
-     Benötigt Überarbeitung                            6693 (28 %)                18961               152200
-
+     Übersetzt                                        13860 (59 %)                53227               412483
+     Benötigt Überarbeitung                            6801 (29 %)                20694               163818
      Übersetzungen mit Fehlern                                   0
 
-
       *Quelltext
- 
      Zeichenketten in originaler Sprache                     23537               110214               659580
+     Benötigt Überarbeitung                                                       24869               149354
+     Nicht übersetzt                                   2876 (12 %)                26232               156387
 
-     Benötigt Überarbeitung                                                       24387               146461
-
-     Nicht übersetzt                                   5023 (21 %)                44892               269511
