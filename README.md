@@ -7,11 +7,13 @@ Es ist erst einmal eine nicht komplettierte Vorübersetzung.
 
 Ich habe erst einmal so viel Übersetzungspunkte hinzugefügt wie ich finden konnte.
 
-Dann habe ich Übersetzung von Martin Reininger eingefügt.
+Dann habe ich die Übersetzung von Martin Reininger eingefügt.
 
 Jetzt muss nur noch der fehlende Rest Übersetzt werden.
 
 Ich nutze Notepad++, WinMerge 2.14 und Poedit 2.2PRO für die Übersetzungen.
+
+# Status:
 
      * Übersetzung                                        Elemente               Wörter              Zeichen
      Übersetzt                                        14537 (62 %)                59950               460524
