@@ -3,13 +3,15 @@ Für blender 2.78 - 2.79
 
 Dies ist unter Berücksichtigung der blender Version 2.78.5 die bereits 2.79 genannt wird.
 
-Es ist erst einmal eine nicht komplettierte Vorübersetzung.
+Es ist erst einmal eine komplettierte Vorübersetzung, die ich in 34 Stunden Arbeit hinzugefügt habe.
 
-Ich habe erst einmal so viel Übersetzungspunkte hinzugefügt wie ich finden konnte.
+Diese Version 012 funktioniert schon recht gut, da man sich so einiges hinzudenken kann.
 
-Dann habe ich die Übersetzung von Martin Reininger eingefügt.
+Jetzt müssen noch die vielen vielen Fehler beseitigt werden.
 
-Jetzt muss nur noch der fehlende Rest Übersetzt werden.
+Ich hatte erst einmal so viel Übersetzungspunkte hinzugefügt wie ich finden konnte.
+
+Dann hatte ich die Übersetzung von Martin Reininger eingefügt.
 
 Ich nutze Notepad++, WinMerge 2.14 und Poedit 2.2PRO für die Übersetzungen.
 
