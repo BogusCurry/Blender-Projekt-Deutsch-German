@@ -5,7 +5,7 @@ Dies ist unter Berücksichtigung der blender Version 2.78.5 die bereits 2.79 gen
 
 Es ist erst einmal eine komplettierte Vorübersetzung, die ich in 34 Stunden Arbeit hinzugefügt habe.
 
-Diese Version 012 funktioniert schon recht gut, da man sich so einiges hinzudenken kann.
+Diese Version funktioniert schon recht gut, da man sich so einiges hinzudenken kann.
 
 Jetzt müssen noch die vielen vielen Fehler beseitigt werden.
 
