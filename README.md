@@ -7,11 +7,17 @@ Es ist erst einmal eine komplettierte Vorübersetzung, die ich in 34 Stunden Arb
 
 Diese Version funktioniert schon recht gut, da man sich so einiges hinzudenken kann.
 
+++++++
+
 Jetzt müssen noch die vielen vielen Fehler beseitigt werden.
+
+++++++2
 
 Ich hatte erst einmal so viel Übersetzungspunkte hinzugefügt wie ich finden konnte.
 
 Dann hatte ich die Übersetzung von Martin Reininger eingefügt.
+
+++++++1
 
 Ich nutze Notepad++, WinMerge 2.14 und Poedit 2.2PRO für die Übersetzungen.
 
