@@ -11,6 +11,10 @@ Diese Version funktioniert schon recht gut, da man sich so einiges hinzudenken k
 
 Jetzt müssen noch die vielen vielen Fehler beseitigt werden.
 
+++++++3
+
+Fehlende Übersetzungen hinzugefügt.
+
 ++++++2
 
 Ich hatte erst einmal so viel Übersetzungspunkte hinzugefügt wie ich finden konnte.
@@ -24,12 +28,11 @@ Ich nutze Notepad++, WinMerge 2.14 und Poedit 2.2PRO für die Übersetzungen.
 # Status:
 
      * Übersetzung                                        Elemente               Wörter              Zeichen
-     Übersetzt                                        16637 (71 %)                78101               589324
-     Benötigt Überarbeitung                            6900 (29 %)                26740               208272
+     Übersetzt                                        16773 (71 %)                78516               592403
+     Benötigt Überarbeitung                            6764 (29 %)                26384               205427
      Übersetzungen mit Fehlern                                   0
 
       *Quelltext
      Zeichenketten in originaler Sprache                     23537               110214               659580
-     Benötigt Überarbeitung                                                       26021               156466
+     Benötigt Überarbeitung                                                       25602               153887
      Nicht übersetzt                                             0                    0                    0
-
