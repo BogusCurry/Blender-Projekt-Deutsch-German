@@ -3,8 +3,6 @@ Für blender 2.78 - 2.79
 
 Dies ist unter Berücksichtigung der blender Version 2.78.5 die bereits 2.79 genannt wird.
 
-Es ist erst einmal eine komplettierte Vorübersetzung, die ich in 34 Stunden Arbeit hinzugefügt habe.
-
 Diese Version funktioniert schon recht gut, da man sich so einiges hinzudenken kann.
 
 ++++++
@@ -14,6 +12,8 @@ Jetzt müssen noch die vielen vielen Fehler beseitigt werden.
 ++++++3
 
 Fehlende Übersetzungen hinzugefügt.
+
+Es ist erst einmal eine komplettierte Vorübersetzung, die ich in 34 Stunden Arbeit hinzugefügt habe.
 
 ++++++2
 
