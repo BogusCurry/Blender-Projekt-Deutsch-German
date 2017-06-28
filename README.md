@@ -28,11 +28,11 @@ Ich nutze Notepad++, WinMerge 2.14 und Poedit 2.2PRO für die Übersetzungen.
 # Status:
 
      * Übersetzung                                        Elemente               Wörter              Zeichen
-     Übersetzt                                        17674 (75 %)                81687               615777
-     Benötigt Überarbeitung                            5863 (25 %)                22427               174063
+     Übersetzt                                        17884 (76 %)                82591               622501
+     Benötigt Überarbeitung                            5653 (24 %)                21434               166561
      Übersetzungen mit Fehlern                                   0
 
       *Quelltext
      Zeichenketten in originaler Sprache                     23537               110214               659580
-     Benötigt Überarbeitung                                                       22245               133643
+     Benötigt Überarbeitung                                                       21299               127993
      Nicht übersetzt                                             0                    0                    0
