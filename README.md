@@ -11,6 +11,8 @@ Manage UI Translations Addon scheint unter Windows nicht zu laufen,
 
 zumindest bekomme ich das nicht hin.
 
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
 Ich habe die Version de-blender032.mo jetzt mal gründlicher getestet, es läuft.
 
 Damit läuft das mit blender 2.77 – 2.78 und 2.79.
@@ -55,23 +57,21 @@ Aber dies geht mit Notepad++ sehr gut
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 
-++++++
-
 Jetzt müssen noch die vielen vielen Fehler beseitigt werden.
 
-++++++3
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 Fehlende Übersetzungen hinzugefügt.
 
 Es ist erst einmal eine komplettierte Vorübersetzung, die ich in 34 Stunden Arbeit hinzugefügt habe.
 
-++++++2
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 Ich hatte erst einmal so viel Übersetzungspunkte hinzugefügt wie ich finden konnte.
 
 Dann hatte ich die Übersetzung von Martin Reininger eingefügt.
 
-++++++1
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 Ich nutze Notepad++, WinMerge 2.14 und Poedit 2.2PRO für die Übersetzungen.
 
