@@ -18,9 +18,7 @@ In der Blender Wiki steht so ein dummes zeug wie:
 
      Ceci est un exemple (NdT&nbsp;: phrase originale&nbsp;: “''This is an example''”).
 
-.
 
-So Übersetzten aber Leute die Null Ahnung davon haben.
 
 Korrekt sieht das genau so aus:
 
@@ -64,13 +62,12 @@ Dann hatte ich die Übersetzung von Martin Reininger eingefügt.
 Ich nutze Notepad++, WinMerge 2.14 und Poedit 2.2PRO für die Übersetzungen.
 
 # Status:
-
      Übersetzung                                          Elemente               Wörter              Zeichen
-     Übersetzt                                        17884 (76 %)                82591               622501
-     Benötigt Überarbeitung                            5653 (24 %)                21434               166561
+     Übersetzt                                        18556 (79 %)                84995               640264
+     Benötigt Überarbeitung                            4981 (21 %)                18813               146376
      Übersetzungen mit Fehlern                                   0
 
      Quelltext
      Zeichenketten in originaler Sprache                     23537               110214               659580
-     Benötigt Überarbeitung                                                       21299               127993
+     Benötigt Überarbeitung                                                       18808               112658
      Nicht übersetzt                                             0                    0                    0
