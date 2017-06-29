@@ -1,4 +1,4 @@
-a# Blender-Projekt-Deutsch-German
+# Blender-Projekt-Deutsch-German
 Für blender 2.78 - 2.79
 
 Dies ist unter Berücksichtigung der blender Version 2.78.5 die bereits 2.79 genannt wird.
