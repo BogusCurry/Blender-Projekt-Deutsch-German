@@ -30,17 +30,15 @@ Achtung wenn ihr selber mit übersetzen möchtet!
 In der Blender Wiki steht so etwas wie:
 
 
-     Here is a (french) example:
+   Here is a (french) example:
 
      Ceci est un exemple (NdT&nbsp;: phrase originale&nbsp;: “''This is an example''”).
 
 
-.
-
 Korrekt sieht das genau so aus:
 
 
-     Here is a (french) example:
+   Here is a (french) example:
 
      msgid "This is an example"
 
