@@ -5,6 +5,40 @@ Dies ist unter Berücksichtigung der blender Version 2.78.5 die bereits 2.79 gen
 
 Diese Version funktioniert schon recht gut, da man sich so einiges hinzudenken kann.
 
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+Achtung wenn ihr selber mit übersetzen möchtet!
+
+In der Blender Wiki steht so ein dummes zeug wie:
+
+
+Here is a (french) example:
+
+Ceci est un exemple (NdT&nbsp;: phrase originale&nbsp;: “''This is an example''”).
+
+So Übersetzten aber Leute die Null Ahnung davon haben.
+
+Korrekt sieht das genau so aus:
+
+
+Here is a (french) example:
+
+msgid "This is an example"
+
+msgstr "Ceci est un exemple"
+
+Jede Übersetzung wird durch eine Leerzeile getrennt.
+
+Später kann durch suchen und ersetzen, Wörter im gesamten Text geändert werden.
+
+Hierbei muss aber berücksichtigt werden, das nur die  msgstr Zeilen geändert werden.
+
+Dies geht mit Notepad++ sehr gut
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+
 ++++++
 
 Jetzt müssen noch die vielen vielen Fehler beseitigt werden.
