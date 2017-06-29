@@ -44,7 +44,6 @@ Korrekt sieht das genau so aus:
 
      msgstr "Ceci est un exemple"
 
-.
 
 Später kann durch suchen und ersetzen, Wörter im gesamten Text geändert werden.
 
