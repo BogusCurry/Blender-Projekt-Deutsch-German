@@ -1,28 +1,42 @@
-# Blender-Projekt-Deutsch-German
+a# Blender-Projekt-Deutsch-German
 Für blender 2.78 - 2.79
 
 Dies ist unter Berücksichtigung der blender Version 2.78.5 die bereits 2.79 genannt wird.
 
 Diese Version funktioniert schon recht gut, da man sich so einiges hinzudenken kann.
 
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+Manage UI Translations Addon scheint unter Windows nicht zu laufen, 
+
+zumindest bekomme ich das nicht hin.
+
+Ich habe die Version de-blender032.mo jetzt mal gründlicher getestet, es läuft.
+
+Damit läuft das mit blender 2.77 – 2.78 und 2.79.
+
+Ihr müsst nur eure Original Version sichern dann die de-blender032.mo in blender.mo umbenennen 
+
+und gegen das Original austauschen.
+
+Blender dann wie gewohnt starten.
 
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 Achtung wenn ihr selber mit übersetzen möchtet!
 
-In der Blender Wiki steht so ein dummes zeug wie:
+In der Blender Wiki steht so etwas wie:
 
-.
 
      Here is a (french) example:
 
      Ceci est un exemple (NdT&nbsp;: phrase originale&nbsp;: “''This is an example''”).
 
 
+.
 
 Korrekt sieht das genau so aus:
 
-.
 
      Here is a (french) example:
 
