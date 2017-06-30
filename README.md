@@ -73,12 +73,12 @@ Dann hatte ich die Übersetzung von Martin Reininger eingefügt.
 Ich nutze Notepad++, WinMerge 2.14 und Poedit 2.2PRO für die Übersetzungen.
 
 # Status:
-     Übersetzung                                          Elemente               Wörter              Zeichen
-     Übersetzt                                        18556 (79 %)                84995               640264
-     Benötigt Überarbeitung                            4981 (21 %)                18813               146376
+       Übersetzung                                          Elemente               Wörter              Zeichen
+     Übersetzt                                        19155 (81 %)                87055               655187
+     Benötigt Überarbeitung                            4382 (19 %)                16621               129032
      Übersetzungen mit Fehlern                                   0
 
-     Quelltext
+       Quelltext
      Zeichenketten in originaler Sprache                     23537               110214               659580
-     Benötigt Überarbeitung                                                       18808               112658
+     Benötigt Überarbeitung                                                       16652                99769
      Nicht übersetzt                                             0                    0                    0
