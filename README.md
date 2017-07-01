@@ -4,6 +4,7 @@ Für blender 2.78 - 2.79
 Dies ist unter Berücksichtigung der blender Version 2.78.5 die bereits 2.79 genannt wird.
 
 Diese Version funktioniert schon recht gut, da man sich so einiges hinzudenken kann.
+
 Wiki https://github.com/wp2opensim/Blender-Projekt-Deutsch-German/wiki
 
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
