@@ -55,6 +55,9 @@ Aber dies geht mit Notepad++ sehr gut
 
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
+TODO:
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 Jetzt müssen noch die vielen vielen Fehler beseitigt werden.
 
